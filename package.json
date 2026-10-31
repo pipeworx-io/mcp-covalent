@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-covalent",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Covalent / GoldRush MCP — unified wallet balances + transactions across 100+ chains (goldrush.dev, formerly covalenthq.com)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "covalent",
     "gatewaySlug": "covalent",
-    "sourceHash": "v1-803238d23b769098684fb2f82ad32c3cc88557a8a67ea57f8f9fbe3272508011",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-6adc640f6e3cb3bf51c87114b5b8cefae35243ef24f70035d6e9d078ba458e2a",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
